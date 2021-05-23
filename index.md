@@ -1,0 +1,15 @@
+<html> 
+  <title>
+    test page
+  </title>
+  
+<body>
+  <h1> This is a test </h1>
+  </body>
+  
+<style>
+  {body
+  background-color:green;
+  text-align: center;
+  }
+  </hmtl>
